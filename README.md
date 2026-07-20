@@ -23,6 +23,9 @@ Chứa mã nguồn và notebook thực hiện quá trình xử lý, phân tích 
 3_report
 Chứa báo cáo chi tiết của dự án.
 
+images
+Các hình ảnh trực quan hóa và kết quả phân tích.
+
 Công nghệ sử dụng
 
 - Python
@@ -33,7 +36,23 @@ Công nghệ sử dụng
 - Prophet
 - Google Colab / Jupyter Notebook
 
-Kết quả
+Kết quả phân tích
 
-Dự án cung cấp các biểu đồ phân tích xu hướng chất lượng không khí và kết quả dự đoán dựa trên dữ liệu lịch sử.
+Xu hướng PM2.5 tại TP.HCM
+
+![PM2.5 tại TP.HCM](images/pm25-hcm-trend.png)
+
+### Xu hướng PM2.5 tại Hà Nội
+
+![PM2.5 tại Hà Nội](images/pm25-hn-trend.png)
+
+## 🔮 Kết quả dự đoán
+
+### Dự đoán PM2.5 tại TP.HCM trong 30 ngày tiếp theo
+
+![Dự đoán PM2.5 tại TP.HCM](images/pm25-hcm-forecast-30-days.png)
+
+### Dự đoán PM2.5 tại Hà Nội trong 30 ngày tiếp theo
+
+![Dự đoán PM2.5 tại Hà Nội](images/pm25-hanoi-forecast-30-days.png)
 
