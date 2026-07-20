@@ -50,7 +50,7 @@ Xu hướng PM2.5 tại TP.HCM
 
 ### Dự đoán PM2.5 tại TP.HCM trong 30 ngày tiếp theo
 
-![Dự đoán PM2.5 tại TP.HCM](images/pm25-forecast-hcm-30-days.png)
+![Dự đoán PM2.5 tại TP.HCM](images/pm25-forecast-hcm-30-days.png.png)
 
 ### Dự đoán PM2.5 tại Hà Nội trong 30 ngày tiếp theo
 
